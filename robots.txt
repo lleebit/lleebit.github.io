@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lleebit.github.io/sitemap.xml
+Sitemap: https://llebit.github.io/sitemap.xml
