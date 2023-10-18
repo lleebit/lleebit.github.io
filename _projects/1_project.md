@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: 西藏
+description: It was one of the most peaceful and undisturbed places she had found.
 img: assets/img/12.jpg
 importance: 1
 category: work
